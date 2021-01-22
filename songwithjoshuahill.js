@@ -40,7 +40,7 @@ function draw() {
 function drawStartScreen(){
   fill(0);
   textSize(25);
-  text('click here to hear our song', 9, 80);
+  text('click here to hear us', 9, 80);
 }
 
 function drawAmplitude(){
